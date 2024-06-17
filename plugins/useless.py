@@ -15,7 +15,7 @@ async def followus(bot: Bot, message: Message):
                           InlineKeyboardButton('🎬 𝑴𝒐𝒗𝒊𝒆𝒔 𝒈𝒓𝒐𝒖𝒑', url="t.me/+aP6czTNySPtlOTE1"),
                           InlineKeyboardButton('🥹 𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url="t.me/MoviezAddaKA")
                        ],[
-                          InlineKeyboardButton("🧑‍💻 𝑩𝒐𝒕 𝑪𝒓𝒆𝒂𝒕𝒆𝒓", url="t.me/captblacknight")
+                          InlineKeyboardButton("🧑‍💻 𝑩𝒐𝒕 𝑪𝒓𝒆𝒂𝒕𝒆𝒓", url="t.me/kmadminsbot")
                          ]
                         ]
                     )
